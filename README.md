@@ -7,7 +7,6 @@ Este repositório contém exercícios em **Java** que estou realizando para **ap
 1. Clone o repositório:
     ```bash
    https://github.com/SenhorPequi/Exercicios-JAVA.git
-    ``
 2. Abra o projeto e execute os arquivos `.java` para testar os exercícios.
 
 ## Licença
