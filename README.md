@@ -6,7 +6,7 @@ Este repositório contém exercícios em **Java** que estou realizando para **ap
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seuusuario/seurepositorio.git
+    [git clone https://github.com/seuusuario/seurepositorio.git](https://github.com/SenhorPequi/Exercicios-JAVA.git)
     ```
 
 2. Abra o projeto e execute os arquivos `.java` para testar os exercícios.
